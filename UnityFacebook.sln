@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EC822EF5-03AD-CDCE-C2DD-C3030F3802CC}") = "UnityFacebook", "Assembly-CSharp.csproj", "{CF216268-2BE3-797E-56AA-E921E3BD25F9}"
+EndProject
+Project("{EC822EF5-03AD-CDCE-C2DD-C3030F3802CC}") = "UnityFacebook", "Assembly-CSharp-Editor.csproj", "{5DA5CF3D-8CF4-AA2E-59FD-90E6FE081B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF216268-2BE3-797E-56AA-E921E3BD25F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF216268-2BE3-797E-56AA-E921E3BD25F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF216268-2BE3-797E-56AA-E921E3BD25F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF216268-2BE3-797E-56AA-E921E3BD25F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA5CF3D-8CF4-AA2E-59FD-90E6FE081B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA5CF3D-8CF4-AA2E-59FD-90E6FE081B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA5CF3D-8CF4-AA2E-59FD-90E6FE081B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA5CF3D-8CF4-AA2E-59FD-90E6FE081B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

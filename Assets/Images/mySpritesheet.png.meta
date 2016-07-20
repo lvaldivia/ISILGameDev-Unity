@@ -1,0 +1,1662 @@
+fileFormatVersion: 2
+guid: 0b8ce152957066645b41c15a02e37bb8
+timeCreated: 1468979482
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mySpritesheet_0
+    21300002: mySpritesheet_1
+    21300004: mySpritesheet_2
+    21300006: mySpritesheet_3
+    21300008: mySpritesheet_4
+    21300010: mySpritesheet_5
+    21300012: mySpritesheet_6
+    21300014: mySpritesheet_7
+    21300016: mySpritesheet_8
+    21300018: mySpritesheet_9
+    21300020: mySpritesheet_10
+    21300022: mySpritesheet_11
+    21300024: mySpritesheet_12
+    21300026: mySpritesheet_13
+    21300028: mySpritesheet_14
+    21300030: mySpritesheet_15
+    21300032: mySpritesheet_16
+    21300034: mySpritesheet_17
+    21300036: mySpritesheet_18
+    21300038: mySpritesheet_19
+    21300040: mySpritesheet_20
+    21300042: mySpritesheet_21
+    21300044: mySpritesheet_22
+    21300046: mySpritesheet_23
+    21300048: mySpritesheet_24
+    21300050: mySpritesheet_25
+    21300052: mySpritesheet_26
+    21300054: mySpritesheet_27
+    21300056: mySpritesheet_28
+    21300058: mySpritesheet_29
+    21300060: mySpritesheet_30
+    21300062: mySpritesheet_31
+    21300064: mySpritesheet_32
+    21300066: mySpritesheet_33
+    21300068: mySpritesheet_34
+    21300070: mySpritesheet_35
+    21300072: mySpritesheet_36
+    21300074: mySpritesheet_37
+    21300076: mySpritesheet_38
+    21300078: mySpritesheet_39
+    21300080: mySpritesheet_40
+    21300082: mySpritesheet_41
+    21300084: mySpritesheet_42
+    21300086: mySpritesheet_43
+    21300088: mySpritesheet_44
+    21300090: mySpritesheet_45
+    21300092: mySpritesheet_46
+    21300094: mySpritesheet_47
+    21300096: mySpritesheet_48
+    21300098: mySpritesheet_49
+    21300100: mySpritesheet_50
+    21300102: mySpritesheet_51
+    21300104: mySpritesheet_52
+    21300106: mySpritesheet_53
+    21300108: mySpritesheet_54
+    21300110: mySpritesheet_55
+    21300112: mySpritesheet_56
+    21300114: mySpritesheet_57
+    21300116: mySpritesheet_58
+    21300118: mySpritesheet_59
+    21300120: mySpritesheet_60
+    21300122: mySpritesheet_61
+    21300124: mySpritesheet_62
+    21300126: mySpritesheet_63
+    21300128: mySpritesheet_64
+    21300130: mySpritesheet_65
+    21300132: mySpritesheet_66
+    21300134: mySpritesheet_67
+    21300136: mySpritesheet_68
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mySpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 623
+        width: 411
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.5, y: -135.5}
+        - {x: 87.5, y: -91.5}
+        - {x: 200.5, y: -34.5}
+        - {x: 205.5, y: -8.5}
+        - {x: 205.5, y: 41.5}
+        - {x: 189.5, y: 65.5}
+        - {x: 146.5, y: 87.5}
+        - {x: 127.5, y: 83.5}
+        - {x: 124.5, y: 79.5}
+        - {x: 124.5, y: 77.5}
+        - {x: 122.5, y: 74.5}
+        - {x: 121.5, y: 69.5}
+        - {x: 117.5, y: 64.5}
+        - {x: 123.5, y: 76.5}
+        - {x: 124.5, y: 83.5}
+        - {x: 127.5, y: 84.5}
+        - {x: 128.5, y: 103.5}
+        - {x: 113.5, y: 147.5}
+        - {x: 66.5, y: 199.5}
+        - {x: 3.5, y: 199.5}
+        - {x: -3.5, y: 181.5}
+        - {x: -30.5, y: 93.5}
+        - {x: -48.5, y: 60.5}
+        - {x: -133.5, y: 70.5}
+        - {x: -205.5, y: 30.5}
+        - {x: -205.5, y: -22.5}
+        - {x: -180.5, y: -47.5}
+        - {x: -155.5, y: -137.5}
+        - {x: -154.5, y: -175.5}
+        - {x: -135.5, y: -193.5}
+        - {x: -113.5, y: -188.5}
+        - {x: -85.5, y: -199.5}
+        - {x: -30.5, y: -199.5}
+        - {x: 11.5, y: -139.5}
+        - {x: 39.5, y: -158.5}
+        - {x: 69.5, y: -171.5}
+    - name: mySpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 814
+        width: 304
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152, y: 42}
+        - {x: 152, y: 73}
+        - {x: 133, y: 96}
+        - {x: 102, y: 104}
+        - {x: 89, y: 104}
+        - {x: 49, y: 85}
+        - {x: 3, y: 76}
+        - {x: -78, y: 59}
+        - {x: -152, y: 35}
+        - {x: -152, y: -45}
+        - {x: -144, y: -47}
+        - {x: -142, y: -94}
+        - {x: -81, y: -104}
+        - {x: 34, y: -104}
+        - {x: 64, y: -87}
+        - {x: 72, y: -48}
+        - {x: 128, y: -30}
+    - name: mySpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 916
+        width: 176
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 53}
+        - {x: -88, y: 21}
+        - {x: -88, y: -30}
+        - {x: -16, y: -53}
+        - {x: 88, y: -53}
+        - {x: 88, y: 44}
+        - {x: 77, y: 53}
+    - name: mySpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 920
+        width: 165
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 51}
+        - {x: -82.5, y: 3}
+        - {x: -82.5, y: -43}
+        - {x: -53.5, y: -51}
+        - {x: 64.5, y: -51}
+        - {x: 82.5, y: -50}
+        - {x: 82.5, y: 32}
+        - {x: 76.5, y: 51}
+    - name: mySpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 947
+        width: 153
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 3.5}
+        - {x: -70.5, y: 6.5}
+        - {x: -69.5, y: 7.5}
+        - {x: -63.5, y: 7.5}
+        - {x: -65.5, y: 7.5}
+        - {x: -68.5, y: 5.5}
+        - {x: -76.5, y: -2.5}
+        - {x: -76.5, y: -12.5}
+        - {x: -28.5, y: -37.5}
+        - {x: 33.5, y: -37.5}
+        - {x: 76.5, y: -16.5}
+        - {x: 76.5, y: 24.5}
+        - {x: 69.5, y: 37.5}
+        - {x: -74.5, y: 37.5}
+        - {x: -76.5, y: 34.5}
+    - name: mySpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 947
+        width: 153
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -37.5}
+        - {x: 38.5, y: -37.5}
+        - {x: 76.5, y: -21.5}
+        - {x: 76.5, y: 4.5}
+        - {x: 42.5, y: 37.5}
+        - {x: -76.5, y: 37.5}
+        - {x: -76.5, y: -20.5}
+    - name: mySpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 947
+        width: 152
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 37.5}
+        - {x: -76, y: 37.5}
+        - {x: -76, y: 6.5}
+        - {x: -60, y: 7.5}
+        - {x: -66, y: 7.5}
+        - {x: -73, y: 3.5}
+        - {x: -76, y: -1.5}
+        - {x: -76, y: -11.5}
+        - {x: -8, y: -37.5}
+        - {x: 13, y: -37.5}
+        - {x: 43, y: -28.5}
+        - {x: 72, y: -17.5}
+        - {x: 76, y: -15.5}
+        - {x: 76, y: 21.5}
+    - name: mySpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 957
+        width: 184
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 32.5}
+        - {x: -92, y: -32.5}
+        - {x: 92, y: -32.5}
+        - {x: 92, y: 32.5}
+    - name: mySpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 957
+        width: 184
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 32.5}
+        - {x: -92, y: -32.5}
+        - {x: 92, y: -32.5}
+        - {x: 92, y: 32.5}
+    - name: mySpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 950
+        width: 137
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.5, y: 20}
+        - {x: 65.5, y: 27}
+        - {x: 18.5, y: 36}
+        - {x: -44.5, y: 36}
+        - {x: -68.5, y: 21}
+        - {x: -68.5, y: -6}
+        - {x: -32.5, y: -36}
+        - {x: 14.5, y: -36}
+        - {x: 15.5, y: -33}
+        - {x: 59.5, y: -19}
+        - {x: 68.5, y: -11}
+    - name: mySpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 843
+        width: 152
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 38.5}
+        - {x: -76, y: 36.5}
+        - {x: -76, y: 6.5}
+        - {x: -62, y: 9.5}
+        - {x: -68, y: 7.5}
+        - {x: -75, y: 1.5}
+        - {x: -76, y: 0.5}
+        - {x: -76, y: -17.5}
+        - {x: -20, y: -38.5}
+        - {x: 21, y: -38.5}
+        - {x: 73, y: -19.5}
+        - {x: 76, y: -11.5}
+        - {x: 76, y: 3.5}
+        - {x: 41, y: 38.5}
+    - name: mySpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 870
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 37.5}
+        - {x: -77.5, y: 36.5}
+        - {x: -77.5, y: -31.5}
+        - {x: -30.5, y: -37.5}
+        - {x: 62.5, y: -37.5}
+        - {x: 77.5, y: -24.5}
+        - {x: 77.5, y: 8.5}
+        - {x: 47.5, y: 37.5}
+    - name: mySpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 870
+        width: 153
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 37.5}
+        - {x: -76.5, y: -24.5}
+        - {x: -74.5, y: -29.5}
+        - {x: -23.5, y: -37.5}
+        - {x: 61.5, y: -37.5}
+        - {x: 76.5, y: -21.5}
+        - {x: 76.5, y: 4.5}
+        - {x: 54.5, y: 37.5}
+    - name: mySpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 915
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mySpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 880
+        width: 152
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 9}
+        - {x: -67, y: 7}
+        - {x: -76, y: -1}
+        - {x: -76, y: -14}
+        - {x: -16, y: -38}
+        - {x: 23, y: -38}
+        - {x: 76, y: -21}
+        - {x: 76, y: 27}
+        - {x: 72, y: 38}
+        - {x: -76, y: 38}
+        - {x: -76, y: 6}
+    - name: mySpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 882
+        width: 152
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 9}
+        - {x: -73, y: 4}
+        - {x: -76, y: -1}
+        - {x: -76, y: -16}
+        - {x: -39, y: -37}
+        - {x: 46, y: -37}
+        - {x: 76, y: -26}
+        - {x: 76, y: 2}
+        - {x: 45, y: 37}
+        - {x: -76, y: 37}
+        - {x: -76, y: 6}
+    - name: mySpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 915
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 20}
+        - {x: -20.5, y: 18}
+        - {x: -20.5, y: -12}
+        - {x: -13.5, y: -20}
+        - {x: 18.5, y: -20}
+        - {x: 20.5, y: -13}
+        - {x: 20.5, y: 19}
+        - {x: 19.5, y: 20}
+    - name: mySpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 875
+        width: 152
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 36}
+        - {x: -76, y: 5}
+        - {x: -60, y: 8}
+        - {x: -66, y: 6}
+        - {x: -76, y: 2}
+        - {x: -76, y: -13}
+        - {x: -14, y: -36}
+        - {x: 49, y: -36}
+        - {x: 76, y: -14}
+        - {x: 76, y: 3}
+        - {x: 38, y: 36}
+    - name: mySpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 839
+        width: 152
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 37}
+        - {x: -76, y: 7}
+        - {x: -60, y: 9}
+        - {x: -6, y: 6}
+        - {x: -60, y: 9}
+        - {x: -66, y: 8}
+        - {x: -75, y: 2}
+        - {x: -76, y: -1}
+        - {x: -76, y: -19}
+        - {x: -15, y: -37}
+        - {x: 23, y: -37}
+        - {x: 76, y: -21}
+        - {x: 76, y: 3}
+        - {x: 48, y: 37}
+    - name: mySpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 839
+        width: 152
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 37.5}
+        - {x: 14, y: 37.5}
+        - {x: 7, y: 36.5}
+        - {x: 4, y: 37.5}
+        - {x: -76, y: 37.5}
+        - {x: -76, y: 8.5}
+        - {x: -61, y: 10.5}
+        - {x: -66, y: 9.5}
+        - {x: -76, y: 5.5}
+        - {x: -76, y: -19.5}
+        - {x: -13, y: -37.5}
+        - {x: 14, y: -37.5}
+        - {x: 75, y: -19.5}
+        - {x: 76, y: -14.5}
+        - {x: 76, y: 3.5}
+        - {x: 45, y: 34.5}
+    - name: mySpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 880
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mySpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 873
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 20}
+        - {x: -20.5, y: 18}
+        - {x: -20.5, y: -12}
+        - {x: -13.5, y: -20}
+        - {x: 18.5, y: -20}
+        - {x: 20.5, y: -13}
+        - {x: 20.5, y: 19}
+        - {x: 19.5, y: 20}
+    - name: mySpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 814
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mySpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 816
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mySpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 817
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mySpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 814
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 27}
+        - {x: -43, y: 17}
+        - {x: -43, y: -18}
+        - {x: -37, y: -26}
+        - {x: -26, y: -27}
+        - {x: 43, y: -27}
+        - {x: 43, y: 27}
+    - name: mySpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 815
+        width: 139
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.5, y: 26.5}
+        - {x: -69.5, y: -24.5}
+        - {x: -57.5, y: -26.5}
+        - {x: 66.5, y: -26.5}
+        - {x: 69.5, y: -16.5}
+        - {x: 69.5, y: 26.5}
+    - name: mySpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 828
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: -11, y: 20}
+        - {x: -14, y: 18}
+        - {x: -18, y: 14}
+        - {x: -20, y: 11}
+        - {x: -20, y: -11}
+        - {x: -18, y: -14}
+        - {x: -14, y: -18}
+        - {x: -11, y: -20}
+        - {x: 14, y: -20}
+        - {x: 20, y: -13}
+        - {x: 20, y: 12}
+        - {x: 15, y: 19}
+    - name: mySpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 805
+        width: 153
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 36}
+        - {x: -76.5, y: -19}
+        - {x: -28.5, y: -36}
+        - {x: 47.5, y: -36}
+        - {x: 76.5, y: -20}
+        - {x: 76.5, y: 14}
+        - {x: 57.5, y: 36}
+    - name: mySpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 807
+        width: 153
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 36.5}
+        - {x: -76.5, y: 33.5}
+        - {x: -76.5, y: -22.5}
+        - {x: -28.5, y: -36.5}
+        - {x: 30.5, y: -36.5}
+        - {x: 75.5, y: -20.5}
+        - {x: 76.5, y: -19.5}
+        - {x: 76.5, y: 5.5}
+        - {x: 44.5, y: 36.5}
+    - name: mySpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 831
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 20}
+        - {x: -20.5, y: 18}
+        - {x: -20.5, y: -12}
+        - {x: -13.5, y: -20}
+        - {x: 18.5, y: -20}
+        - {x: 20.5, y: -13}
+        - {x: 20.5, y: 19}
+        - {x: 19.5, y: 20}
+    - name: mySpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 800
+        width: 153
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 36}
+        - {x: -76.5, y: -20}
+        - {x: -26.5, y: -36}
+        - {x: 28.5, y: -36}
+        - {x: 76.5, y: -16}
+        - {x: 76.5, y: 2}
+        - {x: 55.5, y: 36}
+    - name: mySpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 688
+        width: 1028
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 512, y: 20.5}
+        - {x: 418, y: 47.5}
+        - {x: 336, y: 15.5}
+        - {x: 332, y: 48.5}
+        - {x: 289, y: 61.5}
+        - {x: 276, y: 61.5}
+        - {x: 275, y: 15.5}
+        - {x: 138, y: 17.5}
+        - {x: 118, y: 61.5}
+        - {x: 84, y: 61.5}
+        - {x: 71, y: 52.5}
+        - {x: 65, y: 43.5}
+        - {x: 63, y: 14.5}
+        - {x: -55, y: 40.5}
+        - {x: -100, y: 34.5}
+        - {x: -207, y: 14.5}
+        - {x: -212, y: 37.5}
+        - {x: -230, y: 61.5}
+        - {x: -263, y: 61.5}
+        - {x: -284, y: 50.5}
+        - {x: -276, y: 20.5}
+        - {x: -363, y: 36.5}
+        - {x: -400, y: 61.5}
+        - {x: -473, y: 61.5}
+        - {x: -514, y: 30.5}
+        - {x: -514, y: -64.5}
+        - {x: 497, y: -64.5}
+        - {x: 514, y: -56.5}
+        - {x: 514, y: -21.5}
+        - {x: 500, y: -23.5}
+      - - {x: 510, y: -14.5}
+        - {x: 512, y: -17.5}
+        - {x: 514, y: -17.5}
+        - {x: 514, y: 0.5}
+        - {x: 510, y: -0.5}
+      - - {x: 498, y: 49.5}
+        - {x: 494, y: 31.5}
+        - {x: 494, y: 14.5}
+        - {x: 514, y: 14.5}
+        - {x: 514, y: 49.5}
+      - - {x: -389, y: 64.5}
+        - {x: -387, y: 59.5}
+        - {x: -385, y: 59.5}
+        - {x: -381, y: 63.5}
+        - {x: -381, y: 64.5}
+      - - {x: -225, y: 64.5}
+        - {x: -225, y: 62.5}
+        - {x: -222, y: 59.5}
+        - {x: -201, y: 59.5}
+        - {x: -198, y: 62.5}
+        - {x: -198, y: 64.5}
+      - - {x: 273, y: 64.5}
+        - {x: 273, y: 59.5}
+        - {x: 326, y: 59.5}
+        - {x: 326, y: 64.5}
+      - - {x: 423, y: 64.5}
+        - {x: 424, y: 61.5}
+        - {x: 427, y: 60.5}
+        - {x: 447, y: 60.5}
+        - {x: 448, y: 63.5}
+        - {x: 448, y: 64.5}
+      - - {x: 88, y: 64.5}
+        - {x: 89, y: 61.5}
+        - {x: 99, y: 61.5}
+        - {x: 101, y: 63.5}
+        - {x: 101, y: 64.5}
+    - name: mySpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 768
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 16}
+        - {x: -34.5, y: 14}
+        - {x: -35.5, y: 10}
+        - {x: -35.5, y: -16}
+        - {x: 30.5, y: -16}
+        - {x: 33.5, y: -11}
+        - {x: 35.5, y: -8}
+        - {x: 35.5, y: 16}
+    - name: mySpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 731
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 35.5}
+        - {x: -18, y: 5.5}
+        - {x: -18, y: -35.5}
+        - {x: 2, y: -35.5}
+        - {x: 10, y: -28.5}
+        - {x: 18, y: 22.5}
+        - {x: 18, y: 35.5}
+    - name: mySpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 732
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 35.5}
+        - {x: -39.5, y: -3.5}
+        - {x: -39.5, y: -26.5}
+        - {x: -29.5, y: -35.5}
+        - {x: 32.5, y: -35.5}
+        - {x: 39.5, y: -31.5}
+        - {x: 39.5, y: 11.5}
+        - {x: 29.5, y: 35.5}
+    - name: mySpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 732
+        width: 152
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 6.5}
+        - {x: -62, y: 9.5}
+        - {x: -66, y: 7.5}
+        - {x: -75, y: 0.5}
+        - {x: -76, y: -0.5}
+        - {x: -76, y: -15.5}
+        - {x: -20, y: -36.5}
+        - {x: 30, y: -36.5}
+        - {x: 76, y: -21.5}
+        - {x: 76, y: 6.5}
+        - {x: 57, y: 36.5}
+        - {x: -71, y: 36.5}
+        - {x: -76, y: 32.5}
+    - name: mySpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 789
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 20}
+        - {x: -20.5, y: 18}
+        - {x: -20.5, y: -12}
+        - {x: -13.5, y: -20}
+        - {x: 18.5, y: -20}
+        - {x: 20.5, y: -13}
+        - {x: 20.5, y: 19}
+        - {x: 19.5, y: 20}
+    - name: mySpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 725
+        width: 153
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 36}
+        - {x: -76.5, y: -17}
+        - {x: -17.5, y: -36}
+        - {x: 37.5, y: -36}
+        - {x: 45.5, y: -34}
+        - {x: 76.5, y: -17}
+        - {x: 76.5, y: 6}
+        - {x: 44.5, y: 36}
+    - name: mySpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 731
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16.5}
+        - {x: -25, y: 13.5}
+        - {x: -26, y: 11.5}
+        - {x: -26, y: -16.5}
+        - {x: 23, y: -16.5}
+        - {x: 24, y: -15.5}
+        - {x: 26, y: -3.5}
+        - {x: 26, y: 16.5}
+    - name: mySpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 712
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 37.5}
+        - {x: -15.5, y: 37.5}
+        - {x: -30.5, y: 15.5}
+        - {x: -30.5, y: -23.5}
+        - {x: -24.5, y: -37.5}
+        - {x: 23.5, y: -37.5}
+        - {x: 30.5, y: -28.5}
+        - {x: 30.5, y: 8.5}
+        - {x: 23.5, y: 30.5}
+    - name: mySpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 696
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 16}
+        - {x: -34.5, y: 14}
+        - {x: -35.5, y: 10}
+        - {x: -35.5, y: -16}
+        - {x: 30.5, y: -16}
+        - {x: 33.5, y: -11}
+        - {x: 35.5, y: -8}
+        - {x: 35.5, y: 16}
+    - name: mySpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 665
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mySpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 697
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 16}
+        - {x: -35, y: -16}
+        - {x: 33, y: -16}
+        - {x: 35, y: -9}
+        - {x: 35, y: 16}
+    - name: mySpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 665
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mySpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 697
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 16}
+        - {x: -35, y: -16}
+        - {x: 33, y: -16}
+        - {x: 35, y: -9}
+        - {x: 35, y: 16}
+    - name: mySpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 671
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mySpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 650
+        width: 152
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 36.5}
+        - {x: -76, y: 7.5}
+        - {x: -64, y: 8.5}
+        - {x: -66, y: 8.5}
+        - {x: -76, y: 4.5}
+        - {x: -76, y: -21.5}
+        - {x: -35, y: -36.5}
+        - {x: 34, y: -36.5}
+        - {x: 76, y: -17.5}
+        - {x: 76, y: 13.5}
+        - {x: 61, y: 36.5}
+    - name: mySpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 625
+        width: 145
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 30.5}
+        - {x: -44.5, y: 29.5}
+        - {x: -62.5, y: 30.5}
+        - {x: -72.5, y: 30.5}
+        - {x: -72.5, y: -7.5}
+        - {x: -66.5, y: -30.5}
+        - {x: 69.5, y: -30.5}
+        - {x: 72.5, y: -18.5}
+        - {x: 72.5, y: 23.5}
+        - {x: 34.5, y: 30.5}
+    - name: mySpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 625
+        width: 142
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 20}
+        - {x: 23, y: 21}
+        - {x: 30, y: 25}
+        - {x: 29, y: 28}
+        - {x: 26, y: 30}
+        - {x: -71, y: 30}
+        - {x: -71, y: -25}
+        - {x: -70, y: -30}
+        - {x: 59, y: -30}
+        - {x: 71, y: -22}
+        - {x: 71, y: 12}
+        - {x: 62, y: 14}
+    - name: mySpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 625
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 30.5}
+        - {x: -62, y: 14.5}
+        - {x: -62, y: -25.5}
+        - {x: -60, y: -30.5}
+        - {x: 50, y: -30.5}
+        - {x: 62, y: -29.5}
+        - {x: 62, y: 24.5}
+        - {x: 55, y: 30.5}
+    - name: mySpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 628
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 29}
+        - {x: -47, y: -15}
+        - {x: -43, y: -29}
+        - {x: 47, y: -29}
+        - {x: 47, y: 29}
+    - name: mySpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 659
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16.5}
+        - {x: -25, y: 13.5}
+        - {x: -26, y: 11.5}
+        - {x: -26, y: -16.5}
+        - {x: 23, y: -16.5}
+        - {x: 24, y: -15.5}
+        - {x: 26, y: -3.5}
+        - {x: 26, y: 16.5}
+    - name: mySpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 660
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16.5}
+        - {x: -25, y: 13.5}
+        - {x: -26, y: 11.5}
+        - {x: -26, y: -16.5}
+        - {x: 23, y: -16.5}
+        - {x: 24, y: -15.5}
+        - {x: 26, y: -3.5}
+        - {x: 26, y: 16.5}
+    - name: mySpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 660
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16.5}
+        - {x: -25, y: 13.5}
+        - {x: -26, y: 11.5}
+        - {x: -26, y: -16.5}
+        - {x: 23, y: -16.5}
+        - {x: 24, y: -15.5}
+        - {x: 26, y: -3.5}
+        - {x: 26, y: 16.5}
+    - name: mySpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 329
+        width: 1024
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 282, y: -139.5}
+        - {x: 299, y: -135.5}
+        - {x: 309, y: -133.5}
+        - {x: 320, y: -131.5}
+        - {x: 321, y: -130.5}
+        - {x: 512, y: -130.5}
+        - {x: 512, y: 107.5}
+        - {x: 510, y: 107.5}
+        - {x: 505, y: 106.5}
+        - {x: 497, y: 104.5}
+        - {x: 483, y: 99.5}
+        - {x: 465, y: 90.5}
+        - {x: 452, y: 82.5}
+        - {x: 427, y: 66.5}
+        - {x: 425, y: 64.5}
+        - {x: 396, y: 49.5}
+        - {x: 394, y: 49.5}
+        - {x: 391, y: 48.5}
+        - {x: 373, y: 44.5}
+        - {x: 346, y: 43.5}
+        - {x: 345, y: 44.5}
+        - {x: 331, y: 47.5}
+        - {x: 317, y: 52.5}
+        - {x: 315, y: 52.5}
+        - {x: 265, y: 77.5}
+        - {x: 258, y: 80.5}
+        - {x: 245, y: 85.5}
+        - {x: 224, y: 92.5}
+        - {x: 216, y: 94.5}
+        - {x: 196, y: 98.5}
+        - {x: 187, y: 99.5}
+        - {x: 152, y: 99.5}
+        - {x: 144, y: 98.5}
+        - {x: 135, y: 96.5}
+        - {x: 127, y: 94.5}
+        - {x: 120, y: 92.5}
+        - {x: 109, y: 88.5}
+        - {x: 99, y: 84.5}
+        - {x: 75, y: 73.5}
+        - {x: 52, y: 60.5}
+        - {x: 50, y: 58.5}
+        - {x: 31, y: 49.5}
+        - {x: 26, y: 47.5}
+        - {x: 18, y: 45.5}
+        - {x: -2, y: 45.5}
+        - {x: -16, y: 49.5}
+        - {x: -34, y: 58.5}
+        - {x: -55, y: 73.5}
+        - {x: -72, y: 87.5}
+        - {x: -84, y: 99.5}
+        - {x: -98, y: 111.5}
+        - {x: -110, y: 119.5}
+        - {x: -123, y: 128.5}
+        - {x: -143, y: 137.5}
+        - {x: -154, y: 141.5}
+        - {x: -165, y: 144.5}
+        - {x: -169, y: 145.5}
+        - {x: -222, y: 145.5}
+        - {x: -234, y: 142.5}
+        - {x: -242, y: 139.5}
+        - {x: -254, y: 134.5}
+        - {x: -264, y: 129.5}
+        - {x: -270, y: 125.5}
+        - {x: -278, y: 119.5}
+        - {x: -300, y: 96.5}
+        - {x: -304, y: 91.5}
+        - {x: -324, y: 67.5}
+        - {x: -335, y: 65.5}
+        - {x: -341, y: 68.5}
+        - {x: -350, y: 73.5}
+        - {x: -381, y: 88.5}
+        - {x: -394, y: 93.5}
+        - {x: -409, y: 99.5}
+        - {x: -435, y: 104.5}
+        - {x: -460, y: 107.5}
+        - {x: -475, y: 108.5}
+        - {x: -512, y: 108.5}
+        - {x: -512, y: -130.5}
+        - {x: 61, y: -130.5}
+        - {x: 62, y: -131.5}
+        - {x: 86, y: -136.5}
+        - {x: 107, y: -140.5}
+        - {x: 127, y: -143.5}
+        - {x: 136, y: -144.5}
+        - {x: 146, y: -145.5}
+        - {x: 229, y: -145.5}
+        - {x: 248, y: -143.5}
+        - {x: 270, y: -141.5}
+    - name: mySpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 592
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 33}
+        - {x: -18.5, y: 31}
+        - {x: -18.5, y: 27}
+        - {x: -24.5, y: 33}
+        - {x: -33.5, y: 33}
+        - {x: -39.5, y: 28}
+        - {x: -41.5, y: 23}
+        - {x: -39.5, y: 21}
+        - {x: -36.5, y: 21}
+        - {x: -47.5, y: 10}
+        - {x: -47.5, y: -22}
+        - {x: -39.5, y: -33}
+        - {x: 20.5, y: -33}
+        - {x: 47.5, y: -17}
+        - {x: 47.5, y: 13}
+        - {x: 6.5, y: 33}
+    - name: mySpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 1024
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 452, y: 49}
+        - {x: 457, y: 21}
+        - {x: 440, y: 33}
+        - {x: 420, y: 46}
+        - {x: 382, y: 45}
+        - {x: 374, y: 38}
+        - {x: 371, y: 0}
+        - {x: 357, y: 2}
+        - {x: 347, y: 35}
+        - {x: 307, y: 59}
+        - {x: 270, y: 61}
+        - {x: 226, y: 34}
+        - {x: 230, y: 26}
+        - {x: 230, y: 23}
+        - {x: 230, y: 25}
+        - {x: 219, y: 35}
+        - {x: 199, y: 48}
+        - {x: 176, y: 39}
+        - {x: 142, y: 22}
+        - {x: 118, y: 52}
+        - {x: 83, y: 56}
+        - {x: 70, y: 53}
+        - {x: 57, y: 26}
+        - {x: 47, y: 35}
+        - {x: 23, y: 37}
+        - {x: -17, y: 37}
+        - {x: -35, y: 28}
+        - {x: -46, y: 53}
+        - {x: -67, y: 97}
+        - {x: -92, y: 114}
+        - {x: -135, y: 114}
+        - {x: -148, y: 111}
+        - {x: -166, y: 86}
+        - {x: -164, y: 48}
+        - {x: -146, y: 33}
+        - {x: -135, y: 27}
+        - {x: -112, y: 30}
+        - {x: -100, y: 45}
+        - {x: -99, y: 58}
+        - {x: -107, y: 71}
+        - {x: -96, y: 62}
+        - {x: -97, y: 49}
+        - {x: -103, y: 36}
+        - {x: -120, y: 24}
+        - {x: -136, y: 26}
+        - {x: -149, y: 34}
+        - {x: -156, y: 41}
+        - {x: -167, y: 46}
+        - {x: -176, y: 46}
+        - {x: -191, y: 56}
+        - {x: -202, y: 59}
+        - {x: -281, y: 61}
+        - {x: -305, y: 51}
+        - {x: -326, y: 31}
+        - {x: -333, y: 4}
+        - {x: -349, y: 1}
+        - {x: -343, y: 40}
+        - {x: -380, y: 54}
+        - {x: -418, y: 37}
+        - {x: -433, y: 44}
+        - {x: -438, y: 61}
+        - {x: -479, y: 75}
+        - {x: -512, y: 77}
+        - {x: -512, y: -114}
+        - {x: 512, y: -114}
+        - {x: 512, y: 77}
+        - {x: 488, y: 82}
+    - name: mySpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 166
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 45}
+        - {x: -83, y: 3}
+        - {x: -83, y: -45}
+        - {x: 83, y: -45}
+        - {x: 83, y: 9}
+        - {x: 76, y: 45}
+    - name: mySpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 12
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 42}
+        - {x: -83, y: 10}
+        - {x: -83, y: -31}
+        - {x: -53, y: -42}
+        - {x: 82, y: -42}
+        - {x: 83, y: -38}
+        - {x: 83, y: 12}
+        - {x: 69, y: 42}
+    - name: mySpritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 16
+        width: 102
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 34}
+        - {x: 34, y: 40}
+        - {x: -47, y: 40}
+        - {x: -51, y: 39}
+        - {x: -51, y: -15}
+        - {x: -30, y: -40}
+        - {x: 13, y: -40}
+        - {x: 41, y: -29}
+        - {x: 51, y: -15}
+        - {x: 51, y: 13}
+    - name: mySpritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 17
+        width: 167
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 39.5}
+        - {x: -83.5, y: 21.5}
+        - {x: -83.5, y: -31.5}
+        - {x: -81.5, y: -39.5}
+        - {x: 69.5, y: -39.5}
+        - {x: 83.5, y: -33.5}
+        - {x: 83.5, y: 2.5}
+        - {x: 75.5, y: 39.5}
+    - name: mySpritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 19
+        width: 152
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 38.5}
+        - {x: 9, y: 37.5}
+        - {x: -4, y: 38.5}
+        - {x: -76, y: 38.5}
+        - {x: -76, y: 8.5}
+        - {x: -60, y: 9.5}
+        - {x: -67, y: 9.5}
+        - {x: -76, y: 4.5}
+        - {x: -76, y: -18.5}
+        - {x: -31, y: -38.5}
+        - {x: 33, y: -38.5}
+        - {x: 75, y: -19.5}
+        - {x: 76, y: -15.5}
+        - {x: 76, y: 3.5}
+        - {x: 46, y: 38.5}
+    - name: mySpritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 19
+        width: 152
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 38}
+        - {x: -76, y: 8}
+        - {x: -68, y: 10}
+        - {x: -61, y: 11}
+        - {x: -65, y: 10}
+        - {x: -76, y: 5}
+        - {x: -76, y: -19}
+        - {x: -68, y: -33}
+        - {x: -27, y: -38}
+        - {x: 61, y: -38}
+        - {x: 76, y: -20}
+        - {x: 76, y: 2}
+        - {x: 47, y: 38}
+    - name: mySpritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 21
+        width: 152
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 36}
+        - {x: 35, y: 37}
+        - {x: 16, y: 37}
+        - {x: 8, y: 31}
+        - {x: -17, y: 37}
+        - {x: -74, y: 37}
+        - {x: -76, y: 32}
+        - {x: -76, y: 10}
+        - {x: -75, y: 9}
+        - {x: -68, y: 9}
+        - {x: -61, y: 10}
+        - {x: -32, y: 10}
+        - {x: -56, y: 10}
+        - {x: -70, y: 9}
+        - {x: -76, y: 4}
+        - {x: -76, y: -19}
+        - {x: -7, y: -37}
+        - {x: 26, y: -37}
+        - {x: 73, y: -19}
+        - {x: 76, y: -17}
+        - {x: 76, y: 0}
+    - name: mySpritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 6
+        width: 286
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mySpritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mySpritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 633
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -27, y: 19}
+        - {x: -27, y: -25}
+        - {x: 22, y: -25}
+        - {x: 27, y: -24}
+        - {x: 27, y: 25}
+    - name: mySpritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 629
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -24}
+        - {x: -20.5, y: -28}
+        - {x: 23.5, y: -28}
+        - {x: 27.5, y: -17}
+        - {x: 27.5, y: 21}
+        - {x: 18.5, y: 28}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
